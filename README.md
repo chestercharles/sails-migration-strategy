@@ -1,5 +1,5 @@
-# Generate v1.0.3
-#### Using sail v1.0.3
+# Generate v1.0.2
+#### Using sail v1.0.2
 1. Generate a new app: `sails generate new testapp1`
 2. Create a kitten model: `sails generate model kitten`
 3. Create a puppy model: `sails generate model puppy`
